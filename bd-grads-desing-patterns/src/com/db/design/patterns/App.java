@@ -16,8 +16,13 @@ public class App {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Welcome to DB!");
-		
+
 		// Invoke methods here
 	}
+
+	// Design patterns
+	// Creational
+	// Structural
+	// Behavioural
 
 }
